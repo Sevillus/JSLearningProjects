@@ -6,7 +6,7 @@ Jest to repozytorium składające się z trzech projektów na których stawiałe
  
  # Wyszukiwarka napoi
  Kolejna strona pozwala na wyszukanie napoi zawartych na liście, po wpisaniu częsci nazwy do wyszukiwarki.
- https://bills-calculator-js.netlify.app/
+ https://wyszukiwarka-napoi.netlify.app/
  
  # Formularz rejestracyjny.
  Strona, z której byłem najbardziej dumny ponieważ całą logike oraz walidację błędów zrobiłem w pełni samodzielnie.
